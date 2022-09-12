@@ -1,4 +1,17 @@
 - title: README
   file: /README
-- title: PHW1
-  file: /homework1
+- title: Homeworks
+  file: /Homeworks/Homeworks
+  sections:
+    - title: Chapter2Examples
+      file: /Chapter2Examples/Chapter2ExamplesNotebook
+      sections:
+        - title: Chapter2Example
+          file: /Chapter2Examples/Chapter2NotebookExample
+    - title: Chapter2
+      file: /Homeworks/Chapter2/Chapter2
+      sections:
+        - title: PHW1
+          file: /homework1
+        - title: Chapter2Exercises
+          file: /exercises
