@@ -11,8 +11,6 @@
     - title: Chapter2
       file: /Homeworks/Chapter2/Chapter2
       sections:
-        - title: PHW1
-          file: /homework1
         - title: Chapter2Exercises
           file: /exercises
     - title: Chapter3
