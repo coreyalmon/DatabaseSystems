@@ -15,3 +15,10 @@
           file: /homework1
         - title: Chapter2Exercises
           file: /exercises
+    - title: Chapter3
+      file: /Homeworks/Chapter3/PHW2
+      sections:
+        - title: PHW2
+          file: /Homeworks/Chapter3/Homework2
+        - title: Exercises
+          file: /Homeworks/Chapter3/chapter3Exercises
